@@ -10,7 +10,8 @@
             font-family: 'Montserrat', Arial, sans-serif;
             margin: 0;
             background: #f4f8fb;
-            color: #222f3e;
+            color: #222f3e;<img width="2048" height="2048" alt="Gemini_Generated_Image_fzrzqpfzrzqpfzrz (1)" src="https://github.com/user-attachments/assets/97ee700f-61c9-4e5a-b8f2-1903e64a7cc3" />
+
         }
         header {
             background: #1e375a;
